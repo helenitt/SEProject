@@ -1,0 +1,627 @@
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmMainMenu.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+c:\users\t00183586\documents\visual studio 2013\Projects\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmMainMenu.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Users\t00183586\Desktop\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Users\t00183586\Desktop\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Prototype\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Prototype\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Prototype\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\SWEngProject\Prototype\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\SWEngProject\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\SWEngProject\Prototype\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Prototype-Preworking\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Prototype-Preworking\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Prototype-Preworking\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Prototype-Preworking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PrototypeWorking\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PrototypeWorking\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\PrototypeWorking\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\PrototypeWorking\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\PrototypeWorking1102\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PrototypeWorking1102\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PrototypeWorking1102\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PrototypeWorking1102am\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PrototypeWorking1102am\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\PrototypeWorking1102am\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\PrototypeWorking1102am\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\PrototypeWorking1202\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PrototypeWorking1202\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\PrototypeWorking1202\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\PrototypeWorking1502\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PrototypeWorking1502\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\PrototypeWorking1502\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\PrototypeWorking1502\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Users\t00183586\Desktop\PrototypeWorking1702\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\t00183586\Desktop\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\t00183586\Desktop\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PrototypeWorking1702\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PrototypeWorking1702\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\PrototypeWorking1702\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\PrototypeWorking1702\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Ptype1702AfterUpDand LogSorted\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PrototypeWorking1202\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\PtypeWorking2202\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PtypeWorking2202\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\PtypeWorking2202\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\PtypeWorking2202\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PtypeWorking2302\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\PtypeWorking2302\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\PtypeWorking2302\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\PtypeWorking2602\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\PtypeBitMore2702\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\PtypeBitMore2702\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\PtypeBitMore2702\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Ptype2902\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Ptype2902\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Ptype2902\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Ptype2902\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Ptype0303\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Ptype0303\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Ptype0303\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Ptype0303\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Users\t00183586\Desktop\Ptype0403\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\t00183586\Desktop\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\t00183586\Desktop\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Users\Helen\Desktop\Ptype0403AfterInstantiatingVariables\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\Helen\Desktop\Ptype0403AfterInstantiatingVariables\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\Helen\Desktop\Ptype0403AfterInstantiatingVariables\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403AfterInstantiatingVariables\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403AfterInstantiatingVariables\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Users\Helen\Documents\COURSE\SW-ENGINEERING\SEProject\Ptype0403AfterInstantiatingVariables\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\Tried to sort problem\8Ptype0403AfterAmdQuestDone\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\12PTypeLastOne\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\12PTypeLastOne\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\12PTypeLastOne\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\12PTypeLastOne\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\15PTypeNextTestIdIn\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\16PTypeArray1\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\16PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\16PTypeArray1\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\16PTypeArray1\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\17PTypeArray1\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\17PTypeArray1\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\17PTypeArray1\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\17PTypeArray1\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\17PTypeArray10404\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\17PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\17PTypeArray10404\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\17PTypeArray10404\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\18PTypeArray10404\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\18PTypeArray10404\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\18PTypeArray10404\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\18PTypeArray10404\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\19PType0804\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
+C:\19PType0804\TestSYS\TestSYS\bin\Debug\TestSYS.exe
+C:\19PType0804\TestSYS\TestSYS\bin\Debug\TestSYS.pdb
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.csprojResolveAssemblyReference.cache
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecMenu.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmLecStudSearch.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmLogin.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAdd.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmQAmd.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudentList.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudMenu.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmQDel.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAmd.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudDel.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmTProfile.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmTRevw.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmTTake.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmWelcome.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.Properties.Resources.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.frmStudAdd.resources
+C:\19PType0804\TestSYS\TestSYS\obj\Debug\TestSYS.csproj.GenerateResource.Cache
+C:\TestSYS\TestSYS\bin\Debug\TestSYS.exe.config
+C:\TestSYS\TestSYS\obj\Debug\TestSYS.exe
+C:\TestSYS\TestSYS\obj\Debug\TestSYS.pdb
